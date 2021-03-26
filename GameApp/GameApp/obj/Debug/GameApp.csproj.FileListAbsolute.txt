@@ -1,0 +1,15 @@
+C:\Users\Intern 1\source\repos\GameApp\GameApp\bin\Debug\GameApp.exe.config
+C:\Users\Intern 1\source\repos\GameApp\GameApp\bin\Debug\GameApp.exe
+C:\Users\Intern 1\source\repos\GameApp\GameApp\bin\Debug\GameApp.pdb
+C:\Users\Intern 1\source\repos\GameApp\GameApp\obj\Debug\GameApp.csprojAssemblyReference.cache
+C:\Users\Intern 1\source\repos\GameApp\GameApp\obj\Debug\MainWindow.g.cs
+C:\Users\Intern 1\source\repos\GameApp\GameApp\obj\Debug\App.g.cs
+C:\Users\Intern 1\source\repos\GameApp\GameApp\obj\Debug\GameApp_MarkupCompile.cache
+C:\Users\Intern 1\source\repos\GameApp\GameApp\obj\Debug\GameApp_MarkupCompile.lref
+C:\Users\Intern 1\source\repos\GameApp\GameApp\obj\Debug\MainWindow.baml
+C:\Users\Intern 1\source\repos\GameApp\GameApp\obj\Debug\GameApp.g.resources
+C:\Users\Intern 1\source\repos\GameApp\GameApp\obj\Debug\GameApp.Properties.Resources.resources
+C:\Users\Intern 1\source\repos\GameApp\GameApp\obj\Debug\GameApp.csproj.GenerateResource.cache
+C:\Users\Intern 1\source\repos\GameApp\GameApp\obj\Debug\GameApp.csproj.CoreCompileInputs.cache
+C:\Users\Intern 1\source\repos\GameApp\GameApp\obj\Debug\GameApp.exe
+C:\Users\Intern 1\source\repos\GameApp\GameApp\obj\Debug\GameApp.pdb
